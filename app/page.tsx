@@ -18,7 +18,7 @@ export default function Page() {
           <p className={` ${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>
             <strong>Welcome to Dashboard.</strong> This app is made up of by the help of 
               Next.js Learn Course
-            , brought to you by Vercel.
+              brought to you by Vercel.
           </p>
           <p>Use "user@nextmail.com" for Email and "123456" for Password</p>
           <Link
